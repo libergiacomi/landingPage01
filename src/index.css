@@ -1,0 +1,28 @@
+/* 
+font-family: 'EB Garamond', serif;
+font-family: 'Open Sans', sans-serif; 
+*/
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #FCEEB9;
+}
+
+p, span, h3, h4{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1rem;
+  text-shadow: 2px 2px 4px #535151;
+}
+
+h1{
+  font-family: 'EB Garamond', serif;
+  font-size: 3rem;
+  text-shadow: 2px 2px 4px #3b3b3b;
+  color: #000;
+}
